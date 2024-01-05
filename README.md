@@ -14,12 +14,6 @@
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
- 
-
-## About me
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Macodipee)](https://github.com/Macodipee)
-
 - Thanks for visiting.
 
 - Enjoy it!! o/
