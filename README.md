@@ -12,8 +12,6 @@
 
 :books: I’m currently learning everything.
 
-:outbox_tray: 2026 Goals: create a new project and find a new job.
-
 - Thanks for visiting.
 
 - Enjoy it!!
