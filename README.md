@@ -1,17 +1,23 @@
-# Welcome!
+# Welcome! 👋
 
- 
+## I'm Matcarzim
 
-## I'm Matcarzim!
+💻 I’m a Software Engineer  
+🏡 From Brazil  
+📚 Always learning and exploring new technologies  
 
- 
+### About me
 
-:computer: I’m a software engineer!
+- Passionate about clean code, good architecture and problem solving  
+- Interested in backend, distributed systems and developer productivity  
+- Constantly experimenting with new tools, frameworks and ideas  
 
-:house_with_garden: I’m from Brazil.
+### What I’m currently up to
 
-:books: I’m currently learning everything.
+- Learning more about software design, scalability and performance  
+- Improving my skills in modern backend stacks and cloud technologies  
+- Building side projects to turn ideas into real applications  
 
-- Thanks for visiting.
+---
 
-- Enjoy it!!
+Thanks for visiting — feel free to explore my projects and reach out! 🚀
